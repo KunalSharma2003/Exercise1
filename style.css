@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.H1{
+    width: 100%;
+    border: 1px solid black;
+    padding: 25px 0px 25px 0px;   
+    text-transform:uppercase;
+    text-align: right;
+    word-spacing: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100px;
+    font-style: normal;
+    font-size: 15px;  
+    background-color:rgb(167, 112, 44) ;
+}
+.btn1{
+    padding:10px 25px;
+    margin-right: 15px;
+    border: 2px solid white;
+    color: white;
+    font-family: futura-pt;
+    font-weight: 200px;
+    font-style: normal;
+    font-size: 15px;  
+    background-color:darkgray ;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+    color:white;     
+}
+a.One:hover{color: #919b05;}
+a.One:visited{color: blue;}
+a.One:active{color:red;}
+
+a.two:hover{color: #919b05;}
+a.two:visited{color: blue;}
+a.two:active{color:red;}
+
+a.three:hover{color: #919b05;}
+a.three:visited{color: blue;}
+a.three:active{color:red;}
+
+a.four:hover{color: #919b05;}
+a.four:visited{color: blue;}
+a.four:active{color:red;}
+.img1 img{
+    width: 10%;
+    height: 3%;
+    margin-right: 80%;
+    
+}
+.AboutUs {
+    width: 100%;
+    height: 700px; 
+    border: 5px solid black;
+    background-image: url('pexels-tausif-hossain-1226302.jpg');
+}
+.AboutUs p{
+    color: white;
+}
+.ContactUs {
+    color: white;
+    border: 3px solid whitesmoke;
+    margin-top:50px;
+    margin-left: 325px;
+    margin-right: 325px;
+    width: 550px;
+    /* margin: auto; */
+    text-align: center;
+    padding: 150px;
+    background:transparent;
+    background:rgba(0,0,0,.4);
+    
+}
+#btn2{
+    width: 20%;
+    padding: 10px;
+    background-image:url(/Untitled\ design.jpg);
+    color: aliceblue;
+    cursor:pointer;
+    margin-top: 20px;
+}
+.ContactUs h2{
+    color: aqua;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
